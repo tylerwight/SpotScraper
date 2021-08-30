@@ -22,3 +22,7 @@ SPOTIPY_USERNAME='my_user_name'
 ```
 python3 discord_reply_bot.py
 ```
+
+
+# todo
+parse the search history text better, data after running $linksearch can sometimes have words in it that had to be manually removed
