@@ -1,5 +1,7 @@
 # SpotScraper
-Uses both discord and spotify apis to search the entire history of a discord text channel for all spotify links. It will then take all those spotify links and add them to a new or existing playlist
+
+
+Discord bot that uses both discord and spotify apis to search the entire history of a discord text channel for all spotify links. It will then take all those spotify links and add them to a new or existing playlist
 
 ## How to use:
 
