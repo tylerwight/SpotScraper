@@ -1,4 +1,4 @@
-#SpotScraper
+# SpotScraper
 Uses both discord and spotify apis to search the entire history of a discord text channel for all spotify links. It will then take all those spotify links and add them to a new or existing playlist
 
 ## How to use:
@@ -8,9 +8,14 @@ Uses both discord and spotify apis to search the entire history of a discord tex
 * This .env file will house all our secrets for both spotify and discord. Here is how the file should look:
 
 ```
-DISCORD_TOKEN=kjawe<blahblah>;anwet
+# .env
+DISCORD_TOKEN=1lkj23ld8lkj3<blahblah>
+DISCORD_GUILD=test_server_name
+SPOTIPY_CLIENT_ID='alkjsdfoijwe<blahblahblah>'
+SPOTIPY_CLIENT_SECRET='lkjasdf<blahblahblah>'
+SPOTIPY_USERNAME='my_user_name'
 ```
-* Th
+* 
 
 ```
 python3 discord_reply_bot.py
